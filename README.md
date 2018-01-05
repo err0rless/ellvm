@@ -8,6 +8,6 @@ Custom LLVM Project to study LLVM/Clang
 
 ## Navigator
 
-**LLVM Obfuscator:** lib/Transforms/Obfuscation
+**LLVM Obfuscator:** [lib/Transforms/Obfuscation](https://github.com/err0rless/ellvm/tree/master/lib/Transforms/Obfuscation)
 
 *(will be added soon)*
