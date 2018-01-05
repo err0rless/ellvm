@@ -6,10 +6,8 @@ Folked from [**llvm-obfuscator**](https://github.com/obfuscator-llvm/obfuscator/
 
 Custom LLVM Project to study LLVM/Clang
 
----
-
 ## Navigator
 
 **LLVM Obfuscator:** lib/Transforms/Obfuscation
 
-*(will add soon)*
+*(will be added soon)*
