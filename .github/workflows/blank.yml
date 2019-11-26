@@ -15,3 +15,5 @@ jobs:
         sudo xcode-select -s /Applications/Xcode_11.2.app/Contents/Developer/
         clang --version
         swift --version
+        ls -al
+        pwd
