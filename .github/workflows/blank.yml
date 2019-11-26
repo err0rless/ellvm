@@ -17,6 +17,6 @@ jobs:
         swift --version
         ls -al
         pwd
-        cd llvm
+        cd lib
         pwd
         ls -al
